@@ -1,15 +1,14 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://github.com/niakha
+baseurl: /flyonthewingsoflove/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
+title: Fly on the wings of love
+email: irene.unceta@gmail.com
+description: "Vola vola vola vola!"
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Irene Unceta
   pic: 1
   position: Lead Designer
   social:
