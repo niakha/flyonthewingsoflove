@@ -8,8 +8,8 @@ img: Colombia.png
 thumbnail: Colombia.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+client: Joe Arroyo
+category: Cali Pachanguero
 description: Que bonito Colombia!
 
 ---

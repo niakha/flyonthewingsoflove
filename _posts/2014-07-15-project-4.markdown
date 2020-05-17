@@ -8,7 +8,7 @@ img: Chile.png
 thumbnail: Chile.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+client: Arturo Vidal
+category: poca chicha
 description: Que bonito Chile!
 ---
