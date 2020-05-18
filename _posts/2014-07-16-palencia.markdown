@@ -1,0 +1,15 @@
+---
+title: Palencia 
+subtitle: 120€
+layout: default
+modal-id: 5
+date: 2014-07-16
+img: palencia.jpg
+thumbnail: palencia.jpg
+alt: image-alt
+project-date: Febrer 2017
+client: 
+category: Bienvenidos al norte
+description: 
+
+---

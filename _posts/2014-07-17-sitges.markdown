@@ -1,0 +1,15 @@
+---
+title: Edimburg 
+subtitle: 490€
+layout: default
+modal-id: 2
+date: 2014-07-15
+img: edimburgo.jpg
+thumbnail: edimburgo.jpg
+alt: image-alt
+project-date: Abril 2013
+client: 
+category: Hamburguer
+description: 
+
+---
