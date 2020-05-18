@@ -1,15 +1,15 @@
 ---
-title: Argentina
+title: Campelles
 subtitle:790€
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: argentina.png
-thumbnail: argentina.png
+img: campelles.png
+thumbnail: campelles.png
 alt: image-alt
-project-date: April 2014
-client: Diego Armando
-category: Tando Boludo
-description: Que bonic argentina!
+project-date: December 2018
+client: 
+category: Senderisme i gastronomia
+description: 
 
 ---
