@@ -1,7 +1,7 @@
 ---
 title: Edimburg 
 layout: default
-modal-id: 6
+modal-id: 2
 date: 2014-07-15
 img: edimburgo.png
 thumbnail: edimburgo.png
