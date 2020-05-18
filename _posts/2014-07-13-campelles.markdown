@@ -1,11 +1,11 @@
 ---
 title: Campelles
-subtitle:790€
+subtitle: 150€
 layout: default
 modal-id: 1
-date: 2014-07-15
-img: campelles.png
-thumbnail: campelles.png
+date: 2014-07-13
+img: campelles.jpg
+thumbnail: campelles.jpg
 alt: image-alt
 project-date: December 2018
 client: 
