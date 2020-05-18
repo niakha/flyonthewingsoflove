@@ -188,7 +188,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-collapse {
-    border-color: rgba(0, 105, 148,.02); /*! SEABLUE */
+    border-color: rgba(255,255,255,.02);
 }
 
 .navbar-default .navbar-toggle {
@@ -197,7 +197,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: rgba(0, 105, 148,.02); /*! SEABLUE */
+    background-color: #fff;
 }
 
 .navbar-default .navbar-toggle:hover,
@@ -224,13 +224,13 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
-    color: rgb(255, 255, 255);
+    color: #fff;
     background-color: #{{ site.data.template.color.primary }};
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-    color: rgba(0, 105, 148,.02); /*! SEABLUE */
+    color: #fff;
     background-color: #{{ site.data.template.color.secondary }};
 }
 
@@ -374,7 +374,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(0, 105, 148,.02); /*! SEABLUE */
+    background: #2E8B57; /* Seagreen */
     background: rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .9);
 }
 

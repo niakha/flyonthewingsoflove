@@ -1,7 +1,7 @@
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 2E8B57     #Seagreen 
-  secondary: 006994   #Seablue   
+  secondary: 2E8B57   #Seagreen   
   secondary-dark: 333
   muted: 777
 
