@@ -656,68 +656,68 @@ aside.clients img {
     margin: 50px auto;
 }
 
-section#ajuda {
+section#contact {
     background-color: #222;
     background-image: url('img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
 }
 
-section#ajuda .section-heading {
+section#contact .section-heading {
     color: #fff;
 }
 
-section#ajuda .form-group {
+section#contact .form-group {
     margin-bottom: 25px;
 }
 
-section#ajuda .form-group input,
-section#ajuda .form-group textarea {
+section#contact .form-group input,
+section#contact .form-group textarea {
     padding: 20px;
 }
 
-section#ajuda .form-group input.form-control {
+section#contact .form-group input.form-control {
     height: auto;
 }
 
-section#ajuda .form-group textarea.form-control {
+section#contact .form-group textarea.form-control {
     height: 236px;
 }
 
-section#ajuda .form-control:focus {
+section#contact .form-control:focus {
     border-color: #{{ site.data.template.color.primary }};
     box-shadow: none;
 }
 
-section#ajuda::-webkit-input-placeholder {
+section#contact::-webkit-input-placeholder {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     color: #bbb;
 }
 
-section#ajuda:-moz-placeholder {
+section#contact:-moz-placeholder {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     color: #bbb;
 }
 
-section#ajuda::-moz-placeholder {
+section#contact::-moz-placeholder {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     color: #bbb;
 }
 
-section#ajuda:-ms-input-placeholder {
+section#contact:-ms-input-placeholder {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     color: #bbb;
 }
 
-section#ajuda .text-danger {
+section#contact .text-danger {
     color: #e74c3c;
 }
 
