@@ -11,22 +11,22 @@ people:
 - name: Arnau Bonet
   pic: 1
   position: Chief Financial Officer (CFO)
-  description: El nostre CFO s'encarrega de...
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/arnaubonet2
     - title: facebook
       url: #
-    - title: stack-overflow
+    - title: linkedin
       url: #
 
 - name: Berta Gumí
   pic: 2
   position: Chief Organization Officer (COO)
-  description: La Berta s'encarrega de ...
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/bertagumi
     - title: facebook
       url: #
     - title: linkedin
@@ -35,10 +35,10 @@ people:
 - name: Bernat Salbanyà
   pic: 3
   position: Chief Knowledge Officer (CKO)
-  description:
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/bernatsalbanya
     - title: facebook
       url: #
     - title: google-plus
@@ -47,10 +47,10 @@ people:
 - name: Carla Casadevall
   pic: 4
   position: Chief Health Officer (CHO)
-  description:
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/CarlaCasadevall
     - title: facebook
       url: #
     - title: google-plus
@@ -59,10 +59,8 @@ people:
 - name: Genis Prat
   pic: 5
   position: Chief Adventure Officer (CAO)
-  description:
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   social:
-    - title: twitter
-      url: #
     - title: facebook
       url: #
     - title: google-plus
@@ -71,10 +69,10 @@ people:
 - name: Irene Unceta
   pic: 6
   position: Chief Style Officer (CSO)
-  description:
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/ireneunceta
     - title: facebook
       url: #
     - title: google-plus
@@ -83,10 +81,8 @@ people:
 - name: Marc Cuxart
   pic: 7
   position: Chief Science Officer (CSO)
-  description:
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   social:
-    - title: twitter
-      url: #
     - title: facebook
       url: #
     - title: google-plus
@@ -95,10 +91,10 @@ people:
 - name: Marc Lemus
   pic: 8
   position: Chief Education Officer (CEO)
-  description:
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/marclemusfont
     - title: facebook
       url: #
     - title: google-plus
@@ -107,10 +103,10 @@ people:
 - name: Marc Mela
   pic: 9
   position: Chief Chaos Officer (CCO)
-  description:
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/marcomelaqui
     - title: facebook
       url: #
     - title: google-plus
@@ -119,10 +115,8 @@ people:
 - name: Nùria Planell
   pic: 10
   position: Chief Data Officer (CDO)
-  description:
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   social:
-    - title: twitter
-      url: #
     - title: facebook
       url: #
     - title: google-plus
@@ -131,10 +125,8 @@ people:
 - name: Pere Carbonell
   pic: 11
   position: Chief Modeling Officer (CMO)
-  description:
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   social:
-    - title: twitter
-      url: #
     - title: facebook
       url: #
     - title: google-plus
@@ -143,10 +135,10 @@ people:
 - name: Sandra Macià
   pic: 12
   position: Chief Technology Officer (CTO)
-  description:
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/drasann
     - title: facebook
       url: #
     - title: google-plus
