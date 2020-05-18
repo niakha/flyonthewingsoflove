@@ -8,9 +8,10 @@ description: "Vola vola vola vola!"
 
 # Team names, titles and social links
 people:
-- name: Irene Unceta
+- name: Arnau Bonet
   pic: 1
-  position: Lead Designer
+  position: Chief Financial Officer (CFO)
+  description: El nostre CFO s'encarrega de...
   social:
     - title: twitter
       url: #
@@ -19,9 +20,10 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Genis Prats
+- name: Berta Gumí
   pic: 2
-  position: Lead Marketer
+  position: Chief Organization Officer (COO)
+  description: La Berta s'encarrega de ...
   social:
     - title: twitter
       url: #
@@ -30,9 +32,10 @@ people:
     - title: linkedin
       url: #
 
-- name: Berta
+- name: Bernat Salbanyà
   pic: 3
-  position: Lead Developer
+  position: Chief Knowledge Officer (CKO)
+  description:
   social:
     - title: twitter
       url: #
