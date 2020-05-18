@@ -188,7 +188,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-collapse {
-    border-color: rgba(255,255,255,.02);
+    border-color: rgba(46,139,87,.02); /*! SEAGREEN 46, 139, 87 */
 }
 
 .navbar-default .navbar-toggle {
@@ -197,7 +197,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #fff;
+    background-color: rgba(46,139,87,.02); /*! SEAGREEN 46, 139, 87 */
 }
 
 .navbar-default .navbar-toggle:hover,
@@ -224,13 +224,13 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
-    color: #fff;
+    color: rgb(255, 255, 255);
     background-color: #{{ site.data.template.color.primary }};
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-    color: #fff;
+    color: rgba(46,139,87,.02); /*! SEAGREEN 46, 139, 87 */;
     background-color: #{{ site.data.template.color.secondary }};
 }
 
