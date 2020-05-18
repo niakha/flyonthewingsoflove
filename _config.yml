@@ -44,6 +44,114 @@ people:
     - title: google-plus
       url: #
 
+- name: Carla Casadevall
+  pic: 4
+  position: Chief Health Officer (CHO)
+  description:
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Genis Prat
+  pic: 5
+  position: Chief Adventure Officer (CAO)
+  description:
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Irene Unceta
+  pic: 6
+  position: Chief Style Officer (CSO)
+  description:
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Marc Cuxart
+  pic: 7
+  position: Chief Science Officer (CSO)
+  description:
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Marc Lemus
+  pic: 8
+  position: Chief Education Officer (CEO)
+  description:
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Marc Mela
+  pic: 9
+  position: Chief Chaos Officer (CCO)
+  description:
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Nùria Planell
+  pic: 10
+  position: Chief Data Officer (CDO)
+  description:
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Pere Carbonell
+  pic: 11
+  position: Chief Modeling Officer (CMO)
+  description:
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Sandra Macià
+  pic: 12
+  position: Chief Technology Officer (CTO)
+  description:
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
