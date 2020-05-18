@@ -16,9 +16,9 @@ people:
     - title: twitter
       url: https://twitter.com/arnaubonet2
     - title: facebook
-      url: #
+      url: https://www.facebook.com/arnau.bonetpou
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/arnau-bonet-b7579386/
 
 - name: Berta Gumí
   pic: 2
@@ -28,9 +28,9 @@ people:
     - title: twitter
       url: https://twitter.com/bertagumi
     - title: facebook
-      url: #
+      url: https://www.facebook.com/berta.gumiaudenis
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/berta-gum%C3%AD-audenis/
 
 - name: Bernat Salbanyà
   pic: 3
@@ -40,9 +40,9 @@ people:
     - title: twitter
       url: https://twitter.com/bernatsalbanya
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/bernatsalbanya
+    - title: linkedin
+      url: https://www.linkedin.com/in/bernat-salbanyà-rovira-73b2b6a2/
 
 - name: Carla Casadevall
   pic: 4
@@ -52,9 +52,9 @@ people:
     - title: twitter
       url: https://twitter.com/CarlaCasadevall
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/merak.cc
+    - title: linkedin
+      url: https://www.linkedin.com/in/carla-cases-copestake-a85634bb/
 
 - name: Genis Prat
   pic: 5
@@ -62,9 +62,9 @@ people:
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   social:
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/genis.p.ortega
+    - title: linkedin
+      url: https://www.linkedin.com/in/genis-prat-ortega-a79b1779/
 
 - name: Irene Unceta
   pic: 6
@@ -74,19 +74,17 @@ people:
     - title: twitter
       url: https://twitter.com/ireneunceta
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/irene.unceta
+    - title: linkedin
+      url: https://www.linkedin.com/in/ireneunceta/
 
 - name: Marc Cuxart
   pic: 7
   position: Chief Science Officer (CSO)
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   social:
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/marc-gonzález-cuxart-4aba5771/
 
 - name: Marc Lemus
   pic: 8
@@ -96,9 +94,9 @@ people:
     - title: twitter
       url: https://twitter.com/marclemusfont
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/chil.cram
+    - title: linkedin
+      url: https://www.linkedin.com/in/marc-lemus-font-57964667/
 
 - name: Marc Mela
   pic: 9
@@ -108,9 +106,9 @@ people:
     - title: twitter
       url: https://twitter.com/marcomelaqui
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/marc.melaquilez
+    - title: linkedin
+      url: https://www.linkedin.com/in/marc-mela-qu%C3%ADlez-0006516a/
 
 - name: Nùria Planell
   pic: 10
@@ -118,19 +116,17 @@ people:
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   social:
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/nuria.planellmorell
+    - title: linkedin
+      url: https://www.linkedin.com/in/nuria-planell-morell-b94885104/
 
 - name: Pere Carbonell
   pic: 11
   position: Chief Modeling Officer (CMO)
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   social:
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/perecarbonellmirabent/
 
 - name: Sandra Macià
   pic: 12
@@ -140,9 +136,7 @@ people:
     - title: twitter
       url: https://twitter.com/drasann
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/sandrayo666
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
