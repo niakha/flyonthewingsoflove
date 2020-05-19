@@ -9,7 +9,7 @@ thumbnail: palencia.jpg
 alt: image-alt
 project-date: Febrer 2017
 client: 
-category: Bienvenidos al norte
+category: Oci i cultura
 description: 
 
 ---

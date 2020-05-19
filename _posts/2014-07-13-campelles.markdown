@@ -9,7 +9,7 @@ thumbnail: campelles.jpg
 alt: image-alt
 project-date: Decembre 2018
 client: 
-category: Senderisme i gastronomia
+category: Niño en la mesa pesa 
 description: 
 
 ---

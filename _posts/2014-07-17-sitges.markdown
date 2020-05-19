@@ -9,7 +9,7 @@ thumbnail: sitges.jpg
 alt: image-alt
 project-date: Maig 2019
 client: 
-category: Bodas, bautizos y comunioes
+category: Casaments i comunions
 description: 
 
 ---
