@@ -10,7 +10,7 @@ people:
 - name: Arnau Bonet
   pic: 1
   position: Chief Financial Officer (CFO)
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  description: Com a físic especialitzat en matemàtiques per a instruments financers, l'Arnau t’ajudarà a trobar la millor oferta per al teu viatge. També et pot ajudar a posar la mà a La Caixa. De fet, “La Caixa, parlem?” 
   social:
     - title: twitter
       url: https://twitter.com/arnaubonet2
@@ -22,7 +22,7 @@ people:
 - name: Berta Gumí
   pic: 2
   position: Chief Organization Officer (COO)
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  description: Com a bona organitzadora, la Berta posseeix una gran col.lecció de subralladors i bolis de colors, que no només fan que la vida sigui més atractiva sinó que també sigui més divertit fer plans. Aquesta Dra i física té totes les armes per fer que la part més pràctica del viatge sigui una experiència artística
   social:
     - title: twitter
       url: https://twitter.com/bertagumi
@@ -68,7 +68,7 @@ people:
 - name: Irene Unceta
   pic: 6
   position: Chief Style Officer (CSO)
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  description: La Irene és la veu de l'objectivitat. La persona més indicada per a que la teva imatge i el teu estil siguin els més adequats per a cada situació. Des d’un sopar en una platja de Menorca a la llum de la lluna a un concert al Forum. No facis el primo, Jairen is here!
   social:
     - title: twitter
       url: https://twitter.com/ireneunceta
@@ -80,7 +80,7 @@ people:
 - name: Marc Cuxart
   pic: 7
   position: Chief Research Officer (CRO)
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  description: L’epidemiòleg que està de moda, l’home de referència, el Fernando Simón d’Alemanya, el Miguel Hernan de Munich i (amb) el bratswurt més preciós de Ciutadella-Vila Olímpica. L’Oriol Mitjà tremola en sentir el seu nom
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/marc-gonzález-cuxart-4aba5771/
@@ -88,7 +88,7 @@ people:
 - name: Marc Lemus
   pic: 8
   position: Chief Education Officer (CEO)
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  description: El youtuber de referència, el nou influencer del mon educatiu. En Marc farà del teu viatge una experiència d'aprenentatge única. L'educació com a porta de accès al mon, com ha condició de possibilitat per gaudir i valorar el nostre entorn. Educació, collons, educació!
   social:
     - title: twitter
       url: https://twitter.com/marclemusfont
@@ -100,7 +100,7 @@ people:
 - name: Marc Mela
   pic: 9
   position: Chief Philosophy Officer (CPO)
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  description: Un home polifacètic, polièdric i poliatòmic. Tan bon punt et resol una equació diferencial com es posa el traje de busseig i es mimetitza amb els dofins dels canals de Venècia quan encara no hi havien arribat. El Conde Lequio de la filosofia que veneren els amants de Shopenauer i Kirkegaard
   social:
     - title: twitter
       url: https://twitter.com/marcomelaqui
@@ -122,7 +122,7 @@ people:
 - name: Pere Carbonell
   pic: 11
   position: Chief Modeling Officer (CMO)
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  description: En Pere té dubtes. És per això que es dedica a dissenyar models que li permeten conèixer el mòn, o si més no descobrir com es fa el problema del peu de pagina de Física Estadística. Es reflexiu i arauxat, i per això és el més indicat per definir un viatge ple de meravelles amagades. Això sí, sempre va tard
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/perecarbonellmirabent/
@@ -130,7 +130,7 @@ people:
 - name: Sandra Macià
   pic: 12
   position: Becaria 
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  description: La Sandra esta commençant la seva carrera en l’àmbit tecnològic, ella t’ajudarà a computar totes les possibles rutes i previsions del temps gràcies al seu domini del Linux, i si no t’ho acabes de creure, aquí tens més referències (3:12 i 3:31)
   social:
     - title: twitter
       url: https://twitter.com/drasann
