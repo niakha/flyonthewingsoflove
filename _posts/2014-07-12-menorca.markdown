@@ -1,0 +1,15 @@
+---
+title: Menorca 
+subtitle: 225€
+layout: default
+modal-id: 6
+date: 2014-07-12
+img: menorca.jpg
+thumbnail: menorca.jpg
+alt: image-alt
+project-date: Juliol 2011
+client: 
+category: Morirás promiscua 
+description: 
+
+---
